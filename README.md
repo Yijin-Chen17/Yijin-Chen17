@@ -64,8 +64,8 @@ I build things across AI, ROS 2 Robotics, and Multi-modal ML. Here are a few hig
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ricardo-CHEN17/Ricardo-CHEN17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ricardo-CHEN17/Ricardo-CHEN17/output/github-contribution-grid-snake.svg">
-    <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/Ricardo-CHEN17/Ricardo-CHEN17/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yijin-Chen17/Yijin-Chen17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yijin-Chen17/Yijin-Chen17/output/github-contribution-grid-snake.svg">
+    <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/Yijin-Chen17/Yijin-Chen17/output/github-contribution-grid-snake.svg">
   </picture>
 </div>

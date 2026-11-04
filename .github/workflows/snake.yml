@@ -2,11 +2,11 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"    # 每24小时自动运行一次
+    - cron: "0 0 * * *"        # 每天 00:00 UTC (北京时间 08:00) 自动运行一次
   workflow_dispatch:           # 允许手动触发
   push:
     branches:
-      - main                   # ⚠️ 改成你的默认分支名（main 或 master）
+      - main
 
 jobs:
   generate:
@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
