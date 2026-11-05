@@ -50,11 +50,11 @@ I build things across AI, ROS 2 Robotics, and Multi-modal ML. Here are a few hig
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Ricardo-CHEN17">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-CHEN17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <a href="https://github.com/Yijin-Chen17">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yijin-Chen17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Ricardo-CHEN17">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-CHEN17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <a href="https://github.com/Yijin-Chen17">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yijin-Chen17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
   </a>
 </div>
 
